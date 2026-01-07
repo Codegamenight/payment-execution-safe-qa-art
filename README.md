@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Payment Execution Quality & Release Assurance (SAFe ART)
 
 Standalone portfolio project aligned to a Payment Execution Agile Release Train operating under SAFe.
@@ -52,3 +53,6 @@ git add .
 git commit -m "Initial commit: standalone Payment Execution SAFe QA project"
 git push
 
+=======
+# payment-execution-safe-qa-art
+>>>>>>> 375c77924db74b57f2c4a6bbeff0f26603f4bbbc
